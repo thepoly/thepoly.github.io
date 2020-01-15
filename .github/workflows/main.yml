@@ -1,4 +1,4 @@
-name: github pages
+name: hugo auto deploy to master
 
 on:
   push:
