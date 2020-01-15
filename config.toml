@@ -3,4 +3,5 @@ languageCode = "en-us"
 title = "The Polytechnic Documentation"
 theme = "hugo-book"
 
+
 enableGitInfo = true
