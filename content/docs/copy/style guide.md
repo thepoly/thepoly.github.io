@@ -118,7 +118,7 @@ For articles published by RPI students not on *The Polytechnic* staff, credit th
 #### Auxiliary Services
 “The Office of Auxiliary Services is responsible for the Campus Card, Catering, Conference Services, Dining Services, Laundry, Parking & Transportation, and Vending Machines.” See [Campus Card](#campus-card), [meal plan](#meal-plan), and [shuttles](#shuttles).
 
-# B
+## B
 #### baccalaureate
 Avoid using this word, unless absolutely necessary, as in some sort of formal designation of the commencement ceremony.
 	
