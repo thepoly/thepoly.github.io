@@ -28,3 +28,6 @@ jobs:
         ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         PUBLISH_BRANCH: master
         PUBLISH_DIR: ./public
+      with:
+        user: "thepoly"
+        email: "poly@rpi.edu"
