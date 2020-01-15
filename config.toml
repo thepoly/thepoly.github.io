@@ -5,3 +5,6 @@ theme = "hugo-book"
 
 
 enableGitInfo = true
+[params]
+    BookRepo = 'https://github.com/thepoly/thepoly.github.io'
+    BookEditPath = 'edit/hugo/content'
