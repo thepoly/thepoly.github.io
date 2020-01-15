@@ -1,1 +1,0 @@
-# thepoly.github.io
