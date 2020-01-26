@@ -9,7 +9,6 @@ Updated 11/14/2019 at 2:21 pm. That's "mm/dd/yyyy," by the way.
 This guide is built to be as easily accessed as possible. Words in *italics* are used to show example usage, and e.g. means "for example."
 
 
-## ​# 
 #### 15th Street footbridge
 Use *the 15th Street footbridge* on the first reference and *the footbridge* on subsequent references. Footbridge should be lowercase.
 
